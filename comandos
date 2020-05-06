@@ -1,0 +1,52 @@
+# Markdown
+---
+## Testes
+Estou aprendendo linguagem ** Markdown ** no curso em Vídeo de * Git e Github *.
+Podemos __ * misturar * __ configurações.
+
+### Listas
+#### Lista numerada:
+1. Teste
+1. Teste2
+0. Teste3
+   1. Teste3.1
+   1. Teste3.2
+1. Teste4
+
+#### Lista demarcada: 
+* Teste
+* Teste1
+   * Teste1.1
+   * Teste1.2
+* Teste2
+- Teste3
+
+#### Lista de tarefas:
+- [x] Criar página principal;
+- [x] Criar página da loja;
+- [] Finalizar reunião com o cliente;
+- [] Receber do cliente. 
+
+## Imagens e Links:
+! [sol jpg] (https://user-images.githubusercontent.com/64444199/80812137-b883e780-8b9d-11ea-92f9-30dabf4db0be.jpeg)
+
+Acesse meu GitHub (https://github.com/mislainealmeida)
+
+## Tabelas:
+Número | Nome Nota
+--- | --- | ---
+1 | Mislaine 9,0
+2 Eduardo 10,0
+3 Juliana 8,5
+
+## Comando: 
+Não está autorizado a servir o comando `document.getElementById ()` da linguagem JavaScript
+
+
+Olha meu programa em Python
+`` ``
+num = int (input ('Digite um valor:')
+se num% 2 == 0:
+   print (f'O Valor {num} é par ')
+outro 
+  print ('f'O valor {num} é impar')
